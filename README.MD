@@ -16,7 +16,13 @@ $ newgrp docker
 ## Run
 
 ```bash
-docker-compose up -d
+$ docker-compose up -d
+```
+
+## Stop
+
+```bash
+$ docker-compose down
 ```
 
 url: [127.0.0.1:8088](http://127.0.0.1:8088)
